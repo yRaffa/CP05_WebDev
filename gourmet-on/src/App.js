@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Apresentacao from './Components/apresentacao.jsx'
 
 function App() {
