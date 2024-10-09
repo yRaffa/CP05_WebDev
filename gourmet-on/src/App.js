@@ -1,5 +1,5 @@
 import './App.css';
-import Apresentacao from './Components/Apresentacao.jsx'
+import Apresentacao from './Components/Apresentacao'
 
 function App() {
   return (
